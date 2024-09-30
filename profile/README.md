@@ -20,5 +20,5 @@ Twine was founded to address the fragmentation in blockchain ecosystems. We are 
 
 If you share our vision for a more connected and scalable blockchain future, we encourage you to explore collaboration opportunities with us. We’re always open to new ideas and contributions.
 
-Reach out at **dev@twine.xyz**  
-Explore opportunities at **[Twine Careers](https://www.twine.xyz/careers)**
+Reach out at **dev@twinelabs.xyz**  
+Explore opportunities at **[Twine Careers](https://www.twinelabs.xyz/careers)**
